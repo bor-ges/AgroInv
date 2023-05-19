@@ -1,2 +1,2 @@
-URL=http://localhost/TCC/
+URL=http://localhost:8000
 DBPATH=Database/Database.bd
